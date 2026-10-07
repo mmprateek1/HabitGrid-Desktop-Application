@@ -1,0 +1,51 @@
+{
+  "habits": [
+    {
+      "id": "h1",
+      "name": "Exercise & Stretching",
+      "createdAt": "2026-10-06T07:48:04.997Z"
+    },
+    {
+      "id": "h2",
+      "name": "Read 20 mins",
+      "createdAt": "2026-10-06T07:48:04.997Z"
+    },
+    {
+      "id": "h3",
+      "name": "Drink 2.5L Water",
+      "createdAt": "2026-10-06T07:48:04.997Z"
+    },
+    {
+      "id": "h4",
+      "name": "Deep Work (2 hrs)",
+      "createdAt": "2026-10-06T07:48:04.997Z"
+    }
+  ],
+  "completions": {
+    "2026-10": {
+      "h1": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "h2": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "h3": [
+        1,
+        2,
+        4,
+        6
+      ],
+      "h4": [
+        2,
+        3,
+        6
+      ]
+    }
+  }
+}
