@@ -1,4 +1,4 @@
-# HabitGrid - Desktop Habit Tracker (v1.0)
+# HabitGrid - Desktop Habit Tracker (v1.2.0)
 
 A simple, fast, offline monthly habit tracker desktop application with cumulative and daily growth graphs, built according to your PRD.
 
